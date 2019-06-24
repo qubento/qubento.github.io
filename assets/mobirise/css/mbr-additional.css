@@ -2132,8 +2132,8 @@ body {
   color: #0f7699;
 }
 .cid-rsse4MNSTN {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 30px;
+  padding-bottom: 45px;
   background-color: #072630;
 }
 @media (max-width: 767px) {
@@ -2206,7 +2206,8 @@ body {
   color: #efefef;
 }
 .cid-rsse4MNSTN P {
-  color: #ffffff;
+  color: #efefef;
+  text-align: left;
 }
 .cid-ru8uK9vUYm .navbar {
   padding: .5rem 0;
