@@ -71,7 +71,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 38,
+    "uniqCompNum": 37,
     "versionPublish": "4.10.2",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -81,8 +81,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Qubento",
-        "meta_descr": "Qubento Tech - Homepage",
+        "title": "Qubento - Homepage",
+        "meta_descr": "blockchain products, blockchain consulting, blockchain, Chennai, India",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
