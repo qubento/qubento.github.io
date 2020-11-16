@@ -84,10 +84,11 @@
       "settings": {
         "main": true,
         "title": "Qubento - Homepage",
-        "meta_descr": "blockchain products, blockchain consulting, blockchain, Chennai, India",
+        "meta_descr": "blockchain platform, blockchain consulting, machine learning, predictive analytics, healthcare, organic inputs, nutraceuticals, agriculture, India",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/logo-transparent-tr-240x240.png"
       },
       "components": [
         {
