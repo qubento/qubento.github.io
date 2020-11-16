@@ -1185,14 +1185,17 @@ section.lazy-placeholder:after {
 }
 .cid-sgtZiLzyy0 {
   padding-top: 60px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-sgtZiLzyy0 .mbr-section-subtitle {
   color: #767676;
 }
+.cid-sgtZiLzyy0 H2 {
+  color: #0f7699;
+}
 .cid-sgub6NOacv {
-  padding-top: 60px;
+  padding-top: 0px;
   padding-bottom: 15px;
   background-color: #ffffff;
 }
